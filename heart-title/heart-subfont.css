@@ -1,0 +1,12 @@
+@charset "UTF-8";
+
+@font-face {
+  font-family: "heart-subfont";
+  src: url("heart-subfont.woff2") format("woff2"),
+       url("heart-subfont.woff") format("woff"),
+       url("heart-subfont.ttf") format("truetype"),
+       url("heart-subfont.eot") format("embedded-opentype"),
+       url("heart-subfont.svg") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
